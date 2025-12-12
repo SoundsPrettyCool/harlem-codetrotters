@@ -3,3 +3,5 @@ beautifulsoup4
 lxml
 openai
 python-dotenv
+nltk
+pandas
