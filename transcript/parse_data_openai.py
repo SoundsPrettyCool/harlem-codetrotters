@@ -36,5 +36,3 @@ def extract_topics(paragraph):
     )
     
     return completion.choices[0].message.content
-
-print(extract_topics("the subject of this sentence is artificial intelligence and machine learning."))
